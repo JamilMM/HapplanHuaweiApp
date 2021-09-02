@@ -1,4 +1,4 @@
-Happlan is a minimal all in one fitness application designed for huawei users worldwide to enable them get access to fitness routines, nutrition and recipes and calculate their body mass index with a simple calculator. This application is limited in features and its developed by Mahama Jamil for the Huawei HMS AppsUp 2021 Contest Middle East/Africa Region.
+Happlan is a simple and easy to use  all in one fitness application designed for huawei users worldwide to enable them get access to fitness routines, nutrition and recipes and calculate their body mass index with a simple calculator. This application is limited in features and its developed by Mahama Jamil for the Huawei HMS AppsUp 2021 Contest Middle East/Africa Region.
 
 MOBILE APP PRIVACY POLICY
 
