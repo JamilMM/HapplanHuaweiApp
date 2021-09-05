@@ -21,6 +21,11 @@ DESCRIPTION: Happlan is a simple and easy to use all in one fitness application 
 
 Android Support: Android 4.4 to 11
 
+TECH STACK
+
+1. FLUTTER 2.2.3 (Null Safety)
+
+
 
 
 
