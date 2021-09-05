@@ -31,6 +31,9 @@ TECH STACK
 
 
 
+2. COVERR.CO (ROYALTY FREE VIDEO STOCK FOOTAGE)
+
+![download](https://user-images.githubusercontent.com/48213736/132124947-0f71d4f6-fc6d-4a07-9d8b-4046b0017376.png)
 
 
 
