@@ -46,7 +46,7 @@ TECH STACK
 
 
 
-
+Download The App on Huawei AppGallery ---> https://appgallery.huawei.com/#/app/C104686543
 
 
 
